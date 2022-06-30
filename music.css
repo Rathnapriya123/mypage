@@ -1,0 +1,47 @@
+.music{
+    
+    border: solid red;
+    height: 600px;
+    
+}
+header{
+    border: solid 2px;
+    height: 70px;
+    width: auto;
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+}
+footer{
+    border: solid 2px;
+    height: 30px;
+    width: auto;
+    margin-top: 20px;
+}
+.box{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+#box1{
+    background-image: url(telugu1.webp);
+    width: 200px;
+    border: solid green 2px;
+
+}
+#box2{
+    background-image: url(hindi.jpg);
+    width: 200px;
+    border: solid saddlebrown 2px;
+
+}
+#box3{
+    background-image: url(tamil.webp);
+    width: 200px ;
+    border: solid purple 2px;
+}
+#box4{
+    background-image: url(malyalam.jpg);
+    width: 200px;
+    border: solid red 2px;
+}
